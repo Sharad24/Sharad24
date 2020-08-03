@@ -54,6 +54,5 @@ Here are some ideas to get you started:
 
 [website]: https://Sharad24.github.io
 [twitter]: https://twitter.com/sharad24sc
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/sharad-chitlangia/
