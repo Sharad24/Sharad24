@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: **[Vowpalwabbit](http://vowpalwabbit.org/)** makes _Reinforcement Learning **Real**_ and **[GenRL](https://github.com/SforAiDl/genrl)** makes _Reinforcement Learning **Easy**_
+- ⚡ Fun fact: **[Vowpalwabbit](http://vowpalwabbit.org/)** makes _Reinforcement Learning **Real**_, **[GenRL](https://github.com/SforAiDl/genrl)** makes _Reinforcement Learning **Easy**_ and **[QuaRL](https://github.com/harvard-edge/quarl)** makes _Reinforcement Learning **deployable**_
 
 ### Connect with me:
 
