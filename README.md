@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Sharad - aka [Sharad24][website] 👋
 
+![Visitor Count](https://profile-counter.glitch.me/flowirtz/count.svg)
+
 ## I'm a senior year undergraduate student at BITS Goa.
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other researchers and creators
