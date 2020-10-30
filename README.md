@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/Sharad24/count.svg)
 
 ## I'm a senior year undergraduate student at BITS Goa.
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: **[Vowpalwabbit](http://vowpalwabbit.org/)** makes _Reinforcement Learning **Real**_, **[GenRL](https://github.com/SforAiDl/genrl)** makes _Reinforcement Learning **Easy**_ and **[QuaRL](https://github.com/harvard-edge/quarl)** makes _Reinforcement Learning **deployable**_
