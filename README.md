@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/Sharad24/count.svg)
 
-## I'm a senior year undergraduate student at BITS Goa.
-- 🌱 I’m currently learning
+## I am a Research Scientist @ Amazon where I work on Real World Machine Learning Problems.
+- 🌱 I have a passion for Science
 - 👯 I’m looking to collaborate with other researchers and creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: **[Vowpalwabbit](http://vowpalwabbit.org/)** makes _Reinforcement Learning **Real**_, **[GenRL](https://github.com/SforAiDl/genrl)** makes _Reinforcement Learning **Easy**_ and **[QuaRL](https://github.com/harvard-edge/quarl)** makes _Reinforcement Learning **green**_
-- I'm also the maintainer and co-creator of **[GenRL](https://github.com/SforAiDl/genrl)**
+- I was the co-creator of **[GenRL](https://github.com/SforAiDl/genrl)**
 
 ### Connect with me:
 
