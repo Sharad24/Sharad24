@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/Sharad24/count.svg)
 
-## I am a Research Scientist @ Amazon where I work on Real World Machine Learning Problems.
+## I am a Research Scientist @ Amazon where I work on Real World Machine Learning Problems for Amazon Advertising
 - 🌱 I have a passion for Science
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
